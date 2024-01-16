@@ -1,0 +1,246 @@
+@media (max-width:575.98px) {
+
+    /* share button */
+    .common-btn {
+        width: 220px;
+        margin: 10px 0 0;
+    }
+
+    /* common title */
+    .common-title p {
+        width: 309px;
+        padding: 5px 0;
+    }
+
+
+
+
+    .navbar-brand {
+        font-size: 20px;
+    }
+
+
+    .banner-text h1 {
+        font-size: 22px;
+    }
+
+    .banner-text p {
+        font-size: 14px;
+        padding: 0;
+        width: 255px;
+        margin: auto;
+    }
+
+    .banner-input {
+        display: block;
+        text-align: center;
+    }
+
+    .banner-input input {
+        margin: 10px 0;
+    }
+
+
+
+    #select-left {
+        top: 35px;
+    }
+
+    #select-right {
+        right: 21%;
+        top: 97px;
+    }
+
+    /* BANNER PART end  */
+
+    #our-tours {
+        padding: 50px 0;
+    }
+
+    .tours-content p {
+        width: 335px;
+        ;
+    }
+
+    .tour-title h3 {
+        font-size: 16px;
+
+    }
+
+    .tours-content {
+        width: 94%;
+    }
+
+    .tour-wrap {
+        display: grid;
+    }
+
+    .tours-img {
+        width: 92%;
+        padding: 20px 0 0;
+    }
+
+    /* Choose Your Destination start */
+    #choose-destination {
+        padding: 0 0 10px 0;
+    }
+
+    .top-img {
+        display: grid;
+    }
+
+    .middle-img {
+        display: grid;
+    }
+
+    .overlay h4 {
+        font-style: 19px;
+    }
+
+    .down-img {
+        display: grid;
+    }
+
+    /* Why Choose Us start */
+
+    .card-wrap {
+        display: grid;
+    }
+
+    .card-top h5 {
+        font-size: 16px;
+    }
+
+    .card-top p {
+        font-size: 12px;
+    }
+
+    .card-top {
+        width: 300px;
+        border-radius: 16px;
+    }
+
+    .card-bottom {
+        width: 315px;
+        border-radius: 16px;
+    }
+
+    /* Deals & Discounts start  */
+    .details-des {
+        width: 300px;
+        padding: 10px;
+        left: 10px;
+        top: 185px;
+    }
+
+    .des-top {
+        display: flex;
+        flex-wrap: wrap;
+        width: 60%;
+        margin: auto 80px;
+        padding: 0;
+    }
+
+    .des-top p {
+        font-size: 12px;
+    }
+
+    .des-title h5 {
+        font-size: 18px;
+    }
+
+    .des-title p {
+        font-size: 12px;
+        width: 255px;
+        margin: auto;
+        text-align: center;
+    }
+
+    .des-title {
+        text-align: center;
+    }
+
+    .des-title h6 {
+        padding: 10px 0 0;
+    }
+
+    .details-img img {
+        width: 100%;
+        height: 500px;
+        object-fit: cover;
+        border-radius: 16px;
+    }
+
+    /* Deals & Discounts end  */
+
+
+    /* vedeio part start */
+    .vedeio-content-wrap {
+        display: block;
+    }
+
+    .vedeio-img {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    /* Newsletter part start */
+    #news-letter {
+        padding: 50px 0 30px;
+    }
+
+    .letter-wrap {
+        display: grid;
+    }
+
+    .letter-box {
+        width: 95%;
+        margin: 0 0 30px 0;
+    }
+
+    .box-title {
+        padding: 0;
+    }
+
+    .box-title p {
+        width: 280px;
+    }
+
+    .letter-img {
+        width: 100%;
+    }
+
+    .letter-img img {
+        width: 95%;
+    }
+
+    .save-up h3 {
+        font-size: 20px;
+    }
+
+    .save-up h4 {
+        font-size: 16px;
+    }
+
+    .save-up {
+        width: 214px;
+        padding: 10px;
+        right: 10px;
+        bottom: 64px;
+        transform: rotate(-20deg);
+    }
+
+
+
+    /* footer part start */
+
+    #footer p {
+        width: 287px;
+        font-size: 12px;
+        padding: 5px 0;
+    }
+
+    .copy {
+        width: 295px;
+    }
+}

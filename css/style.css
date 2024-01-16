@@ -10,22 +10,22 @@
     text-align: center;
 }
 
-.common-title h3 {
-    font-weight: 800;
-}
-
 .common-title p {
     margin: auto;
     width: 700px;
     color: gray;
-    padding: 12px 0;
+    padding: 15px 0;
+}
+
+.common-title h3 {
+    font-weight: 800;
 }
 
 .common-btn {
     background: #FF5400;
     color: #fff;
     padding: 10px 20px;
-    font-style: 16px;
+    font-size: 16px;
     font-weight: 700;
     border-radius: 8px;
     border: 0;
@@ -278,6 +278,7 @@ ul.navbar-nav {
 .card-top {
     padding: 20px;
     background: rgba(251, 180, 99, 0.2);
+    border-radius: 16px;
 }
 
 .right {
@@ -286,6 +287,7 @@ ul.navbar-nav {
 }
 
 .card-bottom {
+    border-radius: 16px;
     width: 573px;
     background: rgba(233, 68, 68, 0.2);
     padding: 20px;
